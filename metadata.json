@@ -1,0 +1,5 @@
+{
+  "name": "GPA/CGPA Calculator",
+  "description": "A React and Tailwind CSS application for calculating semester GPA and cumulative CGPA. Users can add courses with grades and credits for GPA, and semester GPAs with total credits for CGPA.",
+  "requestFramePermissions": []
+}
