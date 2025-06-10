@@ -6,7 +6,7 @@ import {
   GRADE_TO_POINT_MAP,
   LetterGrade,
   DEFAULT_NEW_SEMESTER,
-  FIXED_CREDIT_VALUE_PER_COURSE
+  // FIXED_CREDIT_VALUE_PER_COURSE
 } from './constants.ts';
 import { Input } from './components/Input.tsx';
 import { Select } from './components/Select.tsx';
