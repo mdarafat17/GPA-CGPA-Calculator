@@ -200,8 +200,8 @@ const App: React.FC = () => {
                 <Button onClick={calculateGpa} variant="primary" className="w-full sm:w-auto">
                     Calculate GPA
                 </Button>
-                <p className="text-xs text-gray-600 mt-2">Note: Each course is assumed to have <strong>{FIXED_CREDIT_VALUE_PER_COURSE} credits</strong> for GPA calculation.</p>
-            </div>
+{/*                 <p className="text-xs text-gray-600 mt-2">Note: Each course is assumed to have <strong>{FIXED_CREDIT_VALUE_PER_COURSE} credits</strong> for GPA calculation.</p>
+            </div> */}
 
             {gpa !== null && (
               <div className="mt-5 p-4 bg-green-50 border-l-4 border-green-500 rounded-md shadow">
